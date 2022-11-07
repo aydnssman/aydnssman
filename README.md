@@ -19,7 +19,7 @@ Hardware & Systems Design Engineer [Infinitus Engineering and Software Inc.](htt
 ---
 <a href="mailto:aydnssman@gmail.com?"><img src="https://img.shields.io/badge/mail-%23DD0031.svg?&style=for-the-badge&logo=yandex&logoColor=white"/></a>
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://https://www.linkedin.com/in/aydın-şişman-04692a72/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aydinsisman/)
 
 <!---
 aydnssman/aydnssman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
