@@ -7,7 +7,7 @@ My name is Aydin Sisman. I'm living Turkey.
 
 💼 Job
 ---
-Hardware & Systems Design Engineer [Infinitus Engineering and Software Inc.](https://www.linkedin.com/company/infinitus-engineering-and-software-inc/).
+Hardware & Systems Design Engineer [Infinitus Engineering and Software Inc.](https://www.linkedin.com/company/infinitus-engineering-and-software-inc/)
 
 🔭 I’m currently working on
 ---
