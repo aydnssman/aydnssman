@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=aydnssman&show_icons=true&theme=synthwave" alt="Aydın's's github stats" /></a>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=aydnssman&show_icons=true&theme=synthwave" alt="Aydın's github stats" /></a>
 My name is Aydin Sisman. I'm living Turkey.
 
 </br></br></br></br></br>
