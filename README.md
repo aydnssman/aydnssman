@@ -13,6 +13,7 @@ Hardware & Systems Design Engineer [Infinitus Engineering and Software Inc.](htt
 ---
 - AHRS
 - Sensor Fusion Algorithm
+- Circuit Design
 
 
 📫 How to reach me:
